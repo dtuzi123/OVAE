@@ -8,7 +8,7 @@
 
 # Title : Continual Variational Autoencoder Learning via Online Cooperative Memorization
 
-# Paper link  
+# Paper link : https://arxiv.org/abs/2207.10131
 
 
 
