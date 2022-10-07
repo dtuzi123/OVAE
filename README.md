@@ -25,7 +25,7 @@ Due to their inference, data representation and reconstruction properties, Varia
 
 >📋 Python xxx.py, the model will be automatically trained and then report the results after the training.
 
->📋 Different parameter settings of LMix would lead different results and we also provide different settings used in our experiments.
+>📋 Different parameter settings of OCM would lead different results and we also provide different settings used in our experiments.
 
 # BibTex
 >📋 If you use our code, please cite our paper as:
