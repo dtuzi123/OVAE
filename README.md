@@ -30,10 +30,13 @@ Due to their inference, data representation and reconstruction properties, Varia
 # BibTex
 >📋 If you use our code, please cite our paper as:
 
-@article{ye2022continual,
-  title={Continual Variational Autoencoder Learning via Online Cooperative Memorization},
+@inproceedings{ye2022continual,
+  title={Continual variational autoencoder learning via online cooperative memorization},
   author={Ye, Fei and Bors, Adrian G},
-  journal={arXiv preprint arXiv:2207.10131},
-  year={2022}
+  booktitle={European Conference on Computer Vision},
+  pages={531--549},
+  year={2022},
+  organization={Springer}
 }
+
 
